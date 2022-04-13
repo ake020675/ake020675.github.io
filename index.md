@@ -15,7 +15,7 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 
 ## Research Interest
 
-Mechanism and Application of Visual Attention, Saliency Prediction, 
+Mechanisms and Applications of Visual Attention, Saliency Prediction, 
 
 ## Publications
 
